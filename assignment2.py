@@ -10,6 +10,6 @@ def wordOccur(word):
 print("The number of sentence present in .docx file is:",sentence,"\n")
 
 
-print(eachArr)
+# print(eachArr)
 for i in range(len(eachArr)):
     print(f"The word '{eachArr[i]}' is present in the .docx file is:",wordOccur(eachArr[i]))
