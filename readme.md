@@ -9,6 +9,7 @@ pip install docx2txt
 
 ### Merged Link
 
-```
-https://github.com/metafy-social/python-scripts/pull/274
-```
+<a href="https://github.com/metafy-social/python-scripts/pull/274">https://github.com/metafy-social/python-scripts/pull/274</a>
+
+
+
